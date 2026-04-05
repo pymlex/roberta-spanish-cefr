@@ -6,7 +6,7 @@
 
 ## Training data
 
-The model was trained on `UniversalCEFR/caes_es`, a Spanish dataset of learner texts with CEFR annotations. The dataset viewer shows 31.1k rows and Spanish language.
+The model was trained on `UniversalCEFR/caes_es`, a Spanish dataset of learner texts with CEFR annotations. The dataset has 31.1k rows.
 
 <img width="691" height="365" alt="image" src="https://github.com/user-attachments/assets/73d297ad-8817-43c5-bfce-68ad0cb7e9b2" />
 
